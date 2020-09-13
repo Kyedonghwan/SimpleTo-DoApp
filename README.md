@@ -2,8 +2,8 @@
 
 ## vanilla JS 연습을 위한 To-Do App
 
--To-Do List
+- To-Do List
 
--Weather Information
+- Weather Information
 
--Remembering name
+- Remembering name
